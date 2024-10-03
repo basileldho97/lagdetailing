@@ -210,7 +210,9 @@
 .aboutus{
     color: rgb(231, 32, 32);
     font-size: 18px;
-    padding-bottom: 10px;
+    margin-top: 200px;
+    margin-left: 250px;
+    margin-bottom: -100px;
 }
 .aboutheading{
     color: white;
